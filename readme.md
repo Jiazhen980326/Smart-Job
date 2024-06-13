@@ -6,7 +6,6 @@ The project is a job recommender system that does the following:
 
 1. Steamlit UI for user to login and upload their resume
 2. Daily job scrapper automated with AWS lambda and EventBridge
-3.
 
 ## Table of Contents
 
